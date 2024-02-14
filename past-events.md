@@ -10,7 +10,7 @@ Explore the history of Open Source Contributors through our past events. Each ev
 
 - **Date:** 01-02-2024 to 13-02-2024
 - **Location:** Online
-- **Highlights:** We successfully conducted online workshop empowering students with foundation C programming skills, paving the way for their programming journey.
+- **Highlights:** We successfully conducted online workshop empowering participants with foundation C programming skills, paving the way for their programming journey.
 - **Link:** [Lets Learn C](https://github.com/Open-Source-Contributors/Lets-Learn-C)
 
 ---
