@@ -6,10 +6,10 @@ Stay updated on the latest events hosted by Open Source Contributors! Join us fo
 
 ### **Lets Code C**
 
-- **Date:** To Be Announced
-- **Time:** To Be Announced
+- **Date:** 14-02-2024
+- **Time:** 11:00 PM 
 - **Location:** Online
-- **Status:** Upcoming
+- **Status:** Ongoing
 - **Description:** 21 Days Online C Coding Challenge Bootcamp 
-- **Registration:** Exclusive Participation
+- **Registration:** Open only to Community Members
 
