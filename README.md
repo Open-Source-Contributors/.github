@@ -1,2 +1,2 @@
-# .github
-Open Source Contributors
+# Open Source Contributors
+
