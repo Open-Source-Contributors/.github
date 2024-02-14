@@ -36,7 +36,7 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the guidel
 
 ## License
 
-This community and its associated repositories are licensed under the terms of the [MIT License](LICENSE.md). See the [LICENSE.md](LICENSE.md) file for details.
+This community and its associated repositories are licensed under the terms of the [MIT License](LICENSE). See the [LICENSE.md](LICENSE) file for details.
 
 ---
 
