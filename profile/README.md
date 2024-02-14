@@ -1,12 +1,43 @@
-## Hi there 👋
+# Open Source Contributors Community
 
-<!--
+Welcome to Open Source Contributors, a thriving community dedicated to learning, exploring, and contributing to open source projects and technologies. Join us on our journey of continuous improvement, knowledge sharing, and community building.
 
-**Here are some ideas to get you started:**
+## About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Open Source Contributors is more than just a community; it's a platform for enthusiasts, learners, and contributors to come together. We organize a variety of events, including workshops, hackathons, coding challenges, and more, with a focus on fostering collaboration and open source contribution.
+
+## Our Mission
+
+- **Learning:** Create an environment that promotes continuous learning and exploration of new technologies.
+  
+- **Contribution:** Advocate for open source contribution and provide opportunities for members to give back to the community.
+
+- **Community Building:** Foster a supportive community where everyone learns, shares, and thrives together.
+
+## Get Involved
+
+1. **Explore Our Repositories:** Check out our GitHub repositories for projects, resources, and opportunities for collaboration.
+  
+2. **Join Events:** Participate in our workshops, hackathons, and coding challenges to enhance your skills and connect with fellow contributors.
+
+3. **Contribute:** Be an active member by contributing to open source projects, sharing your knowledge, and helping others.
+
+## Ongoing and Upcoming Events
+
+For details on our ongoing and upcoming events, please refer to the [events.md](events.md) file.
+
+## Past Events
+
+Curious about our past events? Explore the [past-events.md](past-events.md) to see our journey and accomplishments.
+
+## Code of Conduct
+
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the guidelines and principles that govern our community.
+
+## License
+
+This community and its associated repositories are licensed under the terms of the [MIT License](LICENSE). 
+
+---
+
+**Open Source Contributors - Learn, Explore and Contribute!**
