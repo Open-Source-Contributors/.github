@@ -28,7 +28,7 @@ For details on our ongoing and upcoming events, please refer to the [events.md](
 
 ## Past Events
 
-Curious about our past events? Explore the [past-events.md](past-events.md) file to see our journey and accomplishments.
+Curious about our past events? Explore the [past-events.md](past-events.md) to see our journey and accomplishments.
 
 ## Code of Conduct
 
@@ -36,7 +36,7 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the guidel
 
 ## License
 
-This community and its associated repositories are licensed under the terms of the [MIT License](LICENSE). See the [LICENSE.md](LICENSE) file for details.
+This community and its associated repositories are licensed under the terms of the [MIT License](LICENSE). 
 
 ---
 
